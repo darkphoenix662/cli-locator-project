@@ -1,5 +1,3 @@
-require "princess_auto/version"
-
 class PrincessAutoApp
 
   attr_accessor :greeting, :list_store, :location, 
