@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["tree662@protonmail.com"]
 
   spec.summary       = %q{Princess Auto Store Locator}
-  spec.description   = %q{Store Locations based on Canadian Postal Code}
+  spec.description   = %q{Store Locations based on Selection}
   spec.homepage      = "https://github.com/darkphoenix662/cli-locator-project"
   spec.license       = "MIT"
 
