@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["darkphoenix662"]
   spec.email         = ["tree662@protonmail.com"]
 
-  spec.summary       = %q{Princess Auto Store Locator}
-  spec.description   = %q{Store Locations based on Selection}
+  spec.summary       = %q{Princess Auto Store Locator.}
+  spec.description   = %q{Store Locations based on Selection.}
   spec.homepage      = "https://github.com/darkphoenix662/cli-locator-project"
   spec.license       = "MIT"
 
@@ -30,4 +30,5 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency "bundler", "~> 2.0"
   spec.add_development_dependency "rake", "~> 12.0"
+  spec.add_development_dependency "nokogiri"
 end
